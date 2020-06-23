@@ -1,0 +1,23 @@
+.container{
+    margin-top: 30px;
+}
+.row{
+    justify-content: space-between;
+}
+.progress{
+    margin-bottom: 50px;
+    position: relative;
+}
+.progress-status{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    text-transform: uppercase;
+    font-weight: bold;
+    color: rgb(148, 11, 11);
+}
+.btn{
+    width: 100%;
+
+}
